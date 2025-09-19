@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Survey, Question, QuestionType, SurveyResponse, SurveyResponseValue } from '../types';
+import { Survey, Question, QuestionType, SurveyResponse, SurveyResponseValue } from './types';
 
 interface DynamicTableInputProps {
     question: Question;

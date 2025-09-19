@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Survey } from '../types';
+import { Survey } from './types';
 
 interface ShareModalProps {
     survey: Survey;

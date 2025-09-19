@@ -1,5 +1,5 @@
 import React from 'react';
-import { Survey, SurveyResponse } from '../types';
+import { Survey, SurveyResponse } from './types';
 
 // Fix: Define the missing ResponsesViewerProps interface.
 interface ResponsesViewerProps {
