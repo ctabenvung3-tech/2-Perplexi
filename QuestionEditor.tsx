@@ -1,5 +1,5 @@
 import React from 'react';
-import { Question, QuestionType } from '../types';
+import { Question, QuestionType } from './types';
 import { ShortTextIcon, LongTextIcon, RadioIcon, CheckboxIcon, DropdownIcon, DeleteIcon, TableIcon } from './icons';
 
 interface QuestionEditorProps {
