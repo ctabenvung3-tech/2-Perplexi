@@ -1,0 +1,5 @@
+{
+  "name": "AI Survey Form Builder",
+  "description": "An online survey form builder powered by Gemini. Create surveys using AI, collect responses, and export data to CSV for use in Google Sheets or other tools.",
+  "requestFramePermissions": []
+}
